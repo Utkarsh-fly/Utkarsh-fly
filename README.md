@@ -28,4 +28,9 @@ Here are some ideas to get you started:
 ![c](https://shields.io/badge/-c-pink?logo=c)
 ![c++](https://shields.io/badge/-c++-green?logo=C++)
 
+### _reach me:_
+![facebook](https://shields.io/badge/-facebook-blue?logo=facebook)
+![twitter](https://shields.io/badge/-twitter-lightyellow?logo=twitter)
+![linkedin](https://shields.io/badge/-linkedin-yellow?logo=linkedin)
+
 
