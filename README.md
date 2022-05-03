@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 ![html](https://shields.io/badge/-html-blue?logo=html5)
  ![css](https://shields.io/badge/-css-yellow?logo=css3) ![javascript](https://shields.io/badge/-JavaScript-red?logo=javascript)
 ![php](https://shields.io/badge/-php-green?logo=php) ![android](https://shields.io/badge/-android-pink?logo=android) ![java](https://shields.io/badge/-java-brown?logo=java) ![python](https://shields.io/badge/-python-yellow?logo=python)
+![c](https://shields.io/badge/-c-pink?logo=c)
+![c++](https://shields.io/badge/-c++-green?logo=C++)
 
 
