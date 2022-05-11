@@ -17,20 +17,41 @@ Here are some ideas to get you started:
 # **Hello Visitors😄**,*Greeting From This Side!!*
 
 ## _Welcome to my git-hub repo:_
+____
 
 ![8 Repository](https://shields.io/badge/Repository-12-blue?r&style=plastic)
+![8 Repository](https://shields.io/badge/project-8-blue?r&style=plastic)
+___
+- 🔭 I’m currently working on big project
+- 🌱 I’m currently learning AI & ML
+_____
 
 ## _Languages:_ 
 
-![html](https://shields.io/badge/-html-blue?logo=html5)
- ![css](https://shields.io/badge/-css-yellow?logo=css3) ![javascript](https://shields.io/badge/-JavaScript-red?logo=javascript)
-![php](https://shields.io/badge/-php-green?logo=php) ![android](https://shields.io/badge/-android-pink?logo=android) ![java](https://shields.io/badge/-java-brown?logo=java) ![python](https://shields.io/badge/-python-yellow?logo=python)
-![c](https://shields.io/badge/-c-pink?logo=c)
-![c++](https://shields.io/badge/-c++-green?logo=C++)
+![html](https://shields.io/badge/-html-blue?logo=html5) 
 
-### _reach me:_
-![facebook](https://shields.io/badge/-facebook-blue?logo=facebook)
-![twitter](https://shields.io/badge/-twitter-lightyellow?logo=twitter)
+ ![css](https://shields.io/badge/-css-yellow?logo=css3) 
+ 
+ ![javascript](https://shields.io/badge/-JavaScript-red?logo=javascript)
+
+
+![php](https://shields.io/badge/-php-green?logo=php) 
+
+![android](https://shields.io/badge/-android-pink?logo=android)
+
+ ![java](https://shields.io/badge/-java-brown?logo=java)
+ 
+  ![python](https://shields.io/badge/-python-yellow?logo=python)
+
+
+![c](https://shields.io/badge/-c-pink?logo=c)
+
+![c++](https://shields.io/badge/-c++-green?logo=C++)
+____
+
+### 📫 How to reach me: ...
+
+![facebook](https://shields.io/badge/-facebook-blue?logo=facebook)  ![twitter](https://shields.io/badge/-twitter-lightyellow?logo=twitter)
 ![linkedin](https://shields.io/badge/-linkedin-yellow?logo=linkedin)
 
 
