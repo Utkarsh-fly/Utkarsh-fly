@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## _Welcome to my git-hub repo:_
 
-  ![12 Projects](https://shields.io/badge/Projects-8-blue?r&style=plastic) ![8 Repository](https://shields.io/badge/Repository-12-blue?r&style=plastic)
+![8 Repository](https://shields.io/badge/Repository-12-blue?r&style=plastic)
 
 ## _Languages:_ 
 
